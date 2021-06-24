@@ -1,4 +1,15 @@
-# Code-Refactor
-01 HTML, CSS, and Git: Code Refactor Homework Assignment
+# 01 HTML, CSS, and Git: Code Refactor Homework Assignment
 
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+# Grading Requirement
+    
+    Repository contains quality README file with description, screenshot, and link to deployed application.
+
+# Project Description
+
+# Screenshot
+
+# Link to Deployed Application
+
+    https://oskwalker.github.io/Code-Refactor/
+
+
