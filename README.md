@@ -24,9 +24,9 @@
 
 # Original HTML and CSS Files
 
- Code-Refactor/assets/originals/Develop\index.html
+   https://github.com/OSKWalker/Code-Refactor/blob/main/assets/originals/Develop/index.html
 
- Code-Refactor\assets\originals\Develop\assets\css\style.css
+   https://github.com/OSKWalker/Code-Refactor/blob/main/assets/originals/Develop/assets/css/style.css
 
 # Screenshot
 
