@@ -30,7 +30,7 @@
 
 # Screenshot
 
-    ![alt text](*/Code-Refactor-Screenshot (1).png "Screenshot-1")
+    <img src="https://github.com/OSKWalker/Code-Refactor/blob/main/Code-Refactor-Screenshot%20(1).png" alt="Screenshot-1" width="300">
 
     Code-Refactor\Code-Refactor-Screenshot (2).png
 
