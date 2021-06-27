@@ -20,7 +20,7 @@
 
             --the title element is concise and descriptive.
 
-I was able to achieve these goals through revisions of the HTML (e.g., removing extraneous code, renaming attributes, or changing the designators where necessary, etc.) and the consolidation and reorganization of the CSS selectors and properties to follow the HTML elemental semantic structure. All coding was done using Visual Studio Code. Copies of the original html and css files provided for comparison in the directory listed below.
+    I was able to achieve these goals through revisions of the HTML (e.g., removing extraneous code, renaming attributes, or changing the designators where necessary, etc.) and the consolidation and reorganization of the CSS selectors and properties to follow the HTML elemental semantic structure. All coding was done using Visual Studio Code. Copies of the original html and css files provided for comparison in the directory listed below.
 
 # Original HTML and CSS Files
 
@@ -30,7 +30,12 @@ I was able to achieve these goals through revisions of the HTML (e.g., removing 
 
 # Screenshot
 
+    Code-Refactor\Code-Refactor-Screenshot (1).png
 
+    Code-Refactor\Code-Refactor-Screenshot (2).png
+
+    Code-Refactor\Code-Refactor-Screenshot (3).png
+    
 # Link to Deployed Application
 
     https://oskwalker.github.io/Code-Refactor/
