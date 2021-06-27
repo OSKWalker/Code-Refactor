@@ -30,7 +30,7 @@
 
 # Screenshot
 
-    Code-Refactor\Code-Refactor-Screenshot (1).png
+    ![alt text](*/Code-Refactor-Screenshot (1).png "Screenshot-1")
 
     Code-Refactor\Code-Refactor-Screenshot (2).png
 
