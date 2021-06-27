@@ -1,29 +1,37 @@
+/*Default settings for the entire page.*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*Sets default background-color for the page.*/
 body {
     background-color: #d9dcd6;
 }
-
+/*Sets attributes for the header; Fixes header to the top of the screen.*/
 header {
+    position: fixed;
+    display:inline-flex;
+    width: 100%;
+    justify-content: space-between;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
+/*Sets display properties and font-size for element headings.*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*Slightly alters the color for the "seo" in the "Horiseon" heading*/
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Sets attributes for the navigation list. Positions them to the right of the header box.*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +40,28 @@ header nav {
     font-size: 20px;
 }
 
+/*Removes the default listing style for navigation list.*/
 header nav ul {
     list-style-type: none;
 }
 
+/*Navigation list items will display on the same line.*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*Sets the color and decoration for all anchor tags.*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+ /*Sets the font-size for all paragraph tags*/
 p {
     font-size: 16px;
 }
 
+/*Sets attributes for the primary background image*/
 .main-image {
     height: 800px;
     width: 100%;
@@ -59,12 +71,14 @@ p {
     background-position: center;
 }
 
+/*Sets section to display as 75% of left-side of the page.*/
 .services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Sets attributes for the corresponding box model. */
 .service-item {
     margin-bottom: 20px;
     padding: 50px;
@@ -74,24 +88,29 @@ p {
     color: #ffffff;
 }
 
+/* Restricts image size to within the bounds of its parent. */
 .service-item img {
     max-height: 200px;
 }
+
+/* Positions the image to the left with a right-side margin. */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*Sets bottom margin and font size for class headings*/
 .service-item h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Positions the image to the right with a left-side margin. */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*Sets attributes for the corresponding box model. Section displays as 20% of the page on the right-side.*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,22 +122,26 @@ p {
     background-color: #2589bd;
 }
 
+/*Sets bottom margin size and changes text color*/
 .benefit-item {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*Sets bottom margin size and centers class heading text*/
 .benefit-item h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*Centers images and restricts its size to within the bounds of its parent.*/
 .benefit-item img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*Sets attributes for the footer. Centers the text.*/
 footer {
     padding: 30px;
     clear: both;
@@ -126,6 +149,7 @@ footer {
     text-align: center;
 }
 
+/*Sets the font-size for footer headings.*/
 footer h2 {
     font-size: 20px;
 }
