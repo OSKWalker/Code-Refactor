@@ -24,20 +24,20 @@
 
 # Original HTML and CSS Files
 
-    Code-Refactor\assets\originals\Develop\index.html
+ Code-Refactor/assets/originals/Develop\index.html
 
-    Code-Refactor\assets\originals\Develop\assets\css\style.css
+ Code-Refactor\assets\originals\Develop\assets\css\style.css
 
 # Screenshot
 
-    <img src="https://github.com/OSKWalker/Code-Refactor/blob/main/Code-Refactor-Screenshot%20(1).png" alt="Screenshot-1" width="300">
+   <img src="https://github.com/OSKWalker/Code-Refactor/blob/main/Code-Refactor-Screenshot%20(1).png" alt="Screenshot-1">
 
-    Code-Refactor\Code-Refactor-Screenshot (2).png
+   <img src="https://github.com/OSKWalker/Code-Refactor/blob/main/Code-Refactor-Screenshot%20(2).png" alt="Screenshot-2">
 
-    Code-Refactor\Code-Refactor-Screenshot (3).png
+   <img src="https://github.com/OSKWalker/Code-Refactor/blob/main/Code-Refactor-Screenshot%20(3).png" alt="Screenshot-3">
     
 # Link to Deployed Application
 
-    https://oskwalker.github.io/Code-Refactor/
+   https://oskwalker.github.io/Code-Refactor/
 
 
