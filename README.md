@@ -21,7 +21,6 @@ This can be accomplished by meeting the following criteria:
 >> - the title element is concise and descriptive.
 
 I was able to achieve these goals through revisions of the HTML (e.g., removing extraneous code, renaming attributes, or changing the designators where necessary, etc.) and the consolidation and reorganization of the CSS selectors and properties to follow the HTML elemental semantic structure. All coding was done using Visual Studio Code. Copies of the original html and css files provided for comparison in the directory listed below.
-</p>
 
 # Original HTML and CSS Files
 
